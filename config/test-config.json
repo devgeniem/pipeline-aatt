@@ -1,0 +1,8 @@
+{
+    "strictness": 1,
+    "standard": "WCAG2A",
+    "targets": [
+        "http://www.google.fi",
+        "http://www.geniem.fi"
+    ]
+}
